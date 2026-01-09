@@ -1,12 +1,6 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
-
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Quote Generator Logo" width="120" />
-
-<br /><br />
 
 ## 💬 Quote Generator Website  
 A simple, elegant, and interactive **Quote Generator Website** built using HTML, CSS, and JavaScript.  
@@ -19,7 +13,7 @@ Designed to display inspirational quotes dynamically with a clean and user-frien
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Quote%20Generator%20Website/images/desktop.png" alt="Quote Generator Website Desktop View" width="100%" />
+<img src="Qoute%20Generator%20Website/images/desktop.png" alt="Quote Generator Website Desktop View" width="100%" />
 
 The **Quote Generator Website** is a lightweight web application that generates random inspirational, motivational, or thoughtful quotes at the click of a button.  
 It focuses on simplicity, readability, and smooth interactions to deliver a pleasant user experience.
