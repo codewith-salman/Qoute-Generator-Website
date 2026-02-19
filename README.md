@@ -17,12 +17,6 @@
 
 <br />
 
-<!-- 🔰 PROJECT LOGO -->
-<img src="Qoute%20Generator%20Website/images/logo.png" alt="Quote Generator Logo" width="120"/>
-
-<br />
-<br />
-
 <h1 align="center">💬 Quote Generator Website</h1>
 
 A simple, elegant, and interactive **Quote Generator Website**  
