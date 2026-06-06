@@ -16,7 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-msalmanwebdev%40gmail.com-red?style=social&logo=gmail)](mailto:msalmanwebdev@gmail.com)
 
 <br />
-
 <h1 align="center">💬 Quote Generator Website</h1>
 
 A simple, elegant, and interactive **Quote Generator Website**  
@@ -61,8 +60,6 @@ It is ideal for:
 
 This is a **front-end only project**, built for learning, UI practice, and showcasing JavaScript fundamentals.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -74,8 +71,6 @@ This is a **front-end only project**, built for learning, UI practice, and showc
 - Easy to extend with APIs  
 - Lightweight and fast loading  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -85,8 +80,6 @@ This project is built using:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
