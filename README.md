@@ -49,7 +49,6 @@ The **Quote Generator Website** is a lightweight and interactive web application
 This project focuses on:
 - JavaScript logic and DOM manipulation  
 - Clean and minimal UI design  
-- Smooth user interactions  
 - Readability and simplicity  
 
 It is ideal for:
